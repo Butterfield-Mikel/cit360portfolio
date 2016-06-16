@@ -1,0 +1,56 @@
+Mikel Butterfield understanding portfolio
+Week 8
+Topics
+
+Activity Diagram – 
+I made an activity diagram from scratch for this class. I made it for the flashcard application that my team proposed.  I also did a teaching presentation on it. 
+Teaching presentation starts at 12:40
+https://www.youtube.com/watch?v=AUqcb09NGtM
+Diagram found here
+https://drive.google.com/file/d/0B3QVMKe5PQL6ckJFVWZGVjJYZjA/view?usp=sharing
+
+HTTP URL Connection, 
+Java Collections,
+JSON serialization –
+I made an application that will allow users to get a response from a website, get the IP address of a website, and get the source code of a website. The user can choose to serialize the IP address, the URL, and the response in JSON format. Java collections is also used to show the user a few arrays of example URLs that will work with the app.  Everything works great and I was able to split it into multiple classes like the instructor advised. 
+The application is here 
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/HTTPURLTool
+And the java files are found here (the above link is the parent folder) -
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/HTTPURLTool/src/httpurltool
+I made a video about it here going over each topic in order.
+http://youtu.be/lbpuillN0IQ
+HTTP url connection 0:10 and again at 6:53
+Java collections – 2:43
+JSON serialization – 5:23
+
+Class Diagram 
+I made a class diagram from scratch for this class. I also taught about class diagrams during our team meeting. The teaching presentation starts at 15:05 and is found here:
+https://www.youtube.com/watch?v=pgSgNFeXdKo
+The diagram that I made is found here:
+https://drive.google.com/file/d/0B3QVMKe5PQL6aV9fOUh4Z1hKSzA/view?usp=sharing
+
+Use case diagram
+I made a use case diagram from scratch for this class. It is a diagram for the flashcard app that my team proposed. It can be seen here
+https://drive.google.com/file/d/0B3QVMKe5PQL6MVVRbHRBaElsOU0/view?usp=sharing
+and I teach it here at 0:00
+https://www.youtube.com/watch?v=w-f2DSxghGc
+
+Use case Document
+I made a use case document for this class from scratch and I made it for the flashcard app that my team proposed. I turned it in before but would like a better grade so I added to it.
+The new document is here
+https://drive.google.com/file/d/0B3QVMKe5PQL6UUpjYVpiRVVMbmc/view?usp=sharing
+ The teaching video is found here at 0:00
+https://www.youtube.com/watch?v=ByhYo25-pJ0
+
+Model View Controller
+I was able to make my own MVC sample application to learn the model view controller app design pattern. I followed a great tutorial on tutorialspoint.com and learn that the model is for carrying data, the controller is for controlling what the view shows, and the view displays what the controller tells it to. 
+In my example the main class calls a new view that prints the data from the controller to the console. The controller stores data in the object and updates the view. The object that the controller stores my data to is what I am using as the model. The object is being used as a database because it stores the data from my controller. When the app runs it displays some of my favorite albums and tracks in the console.
+The app can be found here. 
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/MVCsandbox
+and the java files are found in this folder 
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/MVCsandbox/src
+controller.java is my controller
+view.java is my view.
+AlbumAndSong.java is my model, I use an object. 
+
+
