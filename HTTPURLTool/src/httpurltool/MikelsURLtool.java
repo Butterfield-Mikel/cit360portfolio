@@ -4,6 +4,7 @@ import httpurltool.Collection;
 import httpurltool.IP;
 import httpurltool.Json;
 import httpurltool.Ping;
+import httpurltool.SocketIO;
 import httpurltool.SourceCode;
 
 public class MikelsURLtool {
@@ -18,6 +19,7 @@ public class MikelsURLtool {
         System.out.println("Type 3 to get the HTTP response from a website.");
         System.out.println("Type 4 to get the HTTP response and the ip address in JSON format.");
         System.out.println("Type 5 for a list of example URLs that work.");
+        System.out.println("Type 6 to connect to a website on port 80");
         
         String choice;
         choice = input.nextLine();
@@ -36,8 +38,11 @@ public class MikelsURLtool {
             case "4":
                 Json.json(args);
                 break;
-                case "5":
+            case "5":
                 Collection.collection(args);
+                break;
+            case "6":
+                SocketIO.socket(args);
                 break;
             default:
                 System.out.println("Error on input, please try again.");
