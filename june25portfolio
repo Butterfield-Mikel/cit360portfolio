@@ -1,0 +1,42 @@
+Mikel Butterfield
+Understanding portfolio
+Coding Topics
+
+Hibernate
+This week I did research on Hibernate and I feel like I got a better understanding of mapping, the importance of the xml files, and HQL. I did most of my research on tutorialspoint because they have a way of explaining it that I can understand. 
+I do a sharing video on it here: It starts at 0:00
+http://youtu.be/2LMHXCC-1Zw
+My code from the video is here:
+This is the parent folder for the code:
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/week10app
+The Java and XML files are here:
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/week10app/src/week10app
+And my PowerPoint slides are here:
+https://drive.google.com/file/d/0B3QVMKe5PQL6WFhWVWM1MUJhQ2M/view?usp=sharing
+
+Client and Server Sockets
+This week I did some research on client and server sockets. The client-server relationship is a huge part of IT, and you can do some great stuff with it in Java. I recorded a video and added to my URL tool program. I made it so my program can connect my computer (the client) to a website (the server) using port 80. 
+This was added to my URL tool, so it uses almost all the coding topics. 
+My code for that is here: 
+Parent directory of application:
+https://github.com/Butterfield-Mikel/cit360portfolio/tree/master/HTTPURLTool
+The java class that uses sockets:
+https://github.com/Butterfield-Mikel/cit360portfolio/blob/master/HTTPURLTool/src/httpurltool/SocketIO.java
+The teaching video is here, and it starts at 4:18.
+https://www.youtube.com/watch?v=QCZESCd9aes
+The PowerPoint slides for my research are here:
+https://drive.google.com/file/d/0B3QVMKe5PQL6Wk1kbUM4Tml4RFU/view?usp=sharing
+
+Application Controller Pattern. 
+This week I did some research on the application controller pattern. It seems to me like this development pattern is similar to the front controller pattern, and I was able to find information about that. The good news is that I used the instructor’s post that had a link to a text book that taught the ACP. 
+I did a video on it here: it starts at 0:00
+https://www.youtube.com/watch?v=QCZESCd9aes
+And my example code is here:
+https://github.com/Butterfield-Mikel/cit360portfolio/blob/master/ACPexample
+The PowerPoint slides for my research are here:
+https://drive.google.com/file/d/0B3QVMKe5PQL6Wk1kbUM4Tml4RFU/view?usp=sharing
+Java Collections
+This isn’t from this week, but my feedback from my last portfolio made me feel like I messed up when I explained what I did for this. I use one each of Map, List, Set, and Tree to add and remove strings from a list. Java collections is very useful for data storage, so I was able to store and remove strings in this class. 
+Note to the instructor: I already had this in my last portfolio, and nothing has been changed. I just wanted to make sure you saw this because the feedback that I received made me feel like I didn’t do a good job showing you this. If you did see it, it is still the same. 
+The code for it is here:
+https://github.com/Butterfield-Mikel/cit360portfolio/blob/master/HTTPURLTool/src/httpurltool/Collection.java
